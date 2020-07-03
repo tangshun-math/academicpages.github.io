@@ -14,15 +14,15 @@ I received my Ph.D. degree at Université Paris-Sud (now [Université Paris-Sacl
 
 I'm now the vice dean for research of [Academy for Multidisciplinary Studies](http://ams.cnu.edu.cn) at [Capital Normal University](https://cnu.edu.cn), job applications on the areas of mathematics, statistics and related interdisciplinaries are very welcome. We currently focus on 
 
-1. The imaging technology and the frontier mathematical theory;
-1. Artificial intelligence and its mathematical foundation;
-1. Mathematical and statistical methods for big data analysis.
+* The imaging technology and the frontier mathematical theory;
+* Artificial intelligence and its mathematical foundation;
+* Mathematical and statistical methods for big data analysis.
 
 Personal research interests
 ======
-1. Algebraic Number Theory
-1. Arithmetic Geometry
-1. Arakelov Theory
+* Algebraic Number Theory
+* Arithmetic Geometry
+* Arakelov Theory
 
 My current research interests include arithmetic K-theory, arithmetic Riemann-Roch theorem and its applications, special values of L-functions and arithmetic intersection numbers.
 
