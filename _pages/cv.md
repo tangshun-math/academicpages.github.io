@@ -9,40 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.06-: Vice Dean, Associate Professor
+  * Academy for Multidisciplinary Studies, Capital Normal University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2014.01-: Associate Professor
+  * School of Mathematical Sciences, Capital Normal University
+
+* 2012.09-2013.12: Assistant Professor
+  * School of Mathematical Sciences, Capital Normal University 
+
+* 2011.09-2012.08: Postdoctor
+  * Max Planck Institute for Mathematics
+
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2008.10-2011.06: Ph.D in Mathematics, Université Paris-Sud
+  * Supervisor: Prof. Damian Rössler
 
-Publications
+* 2007.09-2008.06: M.S.(Mathematics), Université Paris-Sud
+  * Supervisor: Prof. Damian Rössler
+
+* 2005.09-2009.06: M.S.(Mathematics), Academy of Mathematics and System Sciences, Chinese Academy of Sciences
+  * Supervisor: Prof. Fei Xu
+
+* 2001.09-2005.06: B.S.(Mathematics), Nanjing University
+
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Scientific Activities
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -54,6 +54,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for [Mathematical Reviews (MathSciNet)](https://mathscinet.ams.org/mathscinet)
+
+* Reviewer for [Zentralblatt MATH (zbMATH)](https://www.zbmath.org/)
+
+* Supervisor for [Beijing Teenager Science and Technology Club](http://www.scitech-youth.org.cn/)
