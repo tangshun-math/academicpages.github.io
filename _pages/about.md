@@ -10,9 +10,9 @@ redirect_from:
 
 I'm an associate professor of mathematics in [School of Mathematical Sciences](https://math.cnu.edu.cn/) and in [Academy for Multidisciplinary Studies](http://ams.cnu.edu.cn) at [Capital Normal University](https://cnu.edu.cn).
 
-I received my Ph.D. degree at Université Paris-Sud (now [Université Paris-Saclay](https://universite-paris-saclay.fr)) on February 2011, supervised by [Prof. Damian Charles Rössler](http://people.maths.ox.ac.uk/rossler).
+I received my Ph.D. degree at Université Paris-Sud (now [Université Paris-Saclay](https://universite-paris-saclay.fr)) on March 2011, supervised by [Prof. Damian Charles Rössler](http://people.maths.ox.ac.uk/rossler).
 
-I'm now the vice dean for research of [Academy for Multidisciplinary Studies](http://ams.cnu.edu.cn) at [Capital Normal University](https://cnu.edu.cn), job applications on the areas of mathematics, statistics and related interdisciplinaries are very welcome. We currently focus on 
+I'm now the vice dean for research of [Academy for Multidisciplinary Studies](http://ams.cnu.edu.cn) at [Capital Normal University](https://cnu.edu.cn), job applications on mathematics, statistics and related interdisciplinary areas are very welcome. We currently focus on 
 
 * The imaging technology and the frontier mathematical theory;
 * Artificial intelligence and its mathematical foundation;
