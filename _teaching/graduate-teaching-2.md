@@ -1,7 +1,7 @@
 ---
 title: "Graduate Courses"
 collection: teaching
-type: "Normal Course"
+type: "Classroom Course"
 permalink: /teaching/undergraduate-teaching-1
 venue: "Capital Normal University, School of Mathematical Sciences"
 date: 2020-06-01
