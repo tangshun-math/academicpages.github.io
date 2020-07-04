@@ -27,6 +27,6 @@ Algebraic Number Theory
 * 2016-Spring, 48 class hours
 
 Mathematical Analysis (Exercises)
-======
+------
 * 2014-Spring, 36 class hours
 * 2013-Fall, 36 class hours
