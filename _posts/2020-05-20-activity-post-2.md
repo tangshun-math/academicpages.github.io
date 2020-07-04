@@ -1,5 +1,5 @@
 ---
-title: 'The 2nd Frontier Innovation Forum on Mathematics and its Interdisciplinary Subjects 首都师范大学第二届数学及其交叉学科前沿创新论坛'
+title: 'The 2nd Frontier Innovation Forum on Mathematics and its Interdisciplinary Subjects 第二届数学及其交叉学科前沿创新论坛'
 date: 2020-05-20
 permalink: /posts/2020/05/activity-post-2/
 tags:
