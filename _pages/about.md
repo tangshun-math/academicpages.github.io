@@ -12,7 +12,7 @@ I'm an associate professor of mathematics in [School of Mathematical Sciences](h
 
 I received my Ph.D. degree at Université Paris-Sud (now [Université Paris-Saclay](https://universite-paris-saclay.fr)) on March 2011, supervised by [Prof. Damian Charles Rössler](http://people.maths.ox.ac.uk/rossler).
 
-I'm now the vice dean for research of [Academy for Multidisciplinary Studies](http://ams.cnu.edu.cn) at [Capital Normal University](https://cnu.edu.cn), job applications on mathematics, statistics and related interdisciplinary areas are very welcome. We currently focus on 
+I'm now the vice dean for research of [Academy for Multidisciplinary Studies](http://ams.cnu.edu.cn) at [Capital Normal University](https://cnu.edu.cn), job applications from the scientists who work in the area of mathematics, statistics and related interdisciplines are very welcome. We currently focus on 
 
 * The imaging technology and the frontier mathematical theory;
 * Artificial intelligence and its mathematical foundation;
@@ -28,7 +28,7 @@ My current research interests include arithmetic K-theory, arithmetic Riemann-Ro
 
 Contact me
 ======
-Academy for Multidisciplinary Studies, School of Mathematical Sciences, Capital Normal University, West 3rd Ring North Road 105, Beijing, 100048, P.R. China
+Academy for Multidisciplinary Studies, School of Mathematical Sciences, Capital Normal University, West 3rd Ring North Road 105, Beijing, 100048, P. R. China
 
 E-mail: shun.tang [at] outlook.com 
 
