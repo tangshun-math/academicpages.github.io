@@ -17,7 +17,7 @@ It aims to introduce the research directions and specific problems to each other
 and provide a stage for young doctoral students in the initial stage of scientific research.
 
 Organisers:
-======
+------
 Liang, Yongqi 梁永祺 University of Science and Technology of China
 
 Tang, Shun 唐舜 Capital Normal University
@@ -26,5 +26,5 @@ Tong, Jilong 童纪龙 Capital Normal University
 
 
 Link:
-======
+------
 [http://ams.cnu.edu.cn/info/1014/1117.htm](http://ams.cnu.edu.cn/info/1014/1117.htm)
