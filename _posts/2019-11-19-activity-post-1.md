@@ -8,13 +8,7 @@ tags:
   - Algebraic Geometry
 ---
 
-Séminaire Mathjeunes was founded by Chinese students in Paris in 2008. 
-The participants and speakers were mainly doctoral students and postdoctoral students, 
-whose research areas includ number theory, arithmetic geometry, algebraic geometry and related directions. 
-Since the 10th anniversary celebration, an academic forum will be held every year in China (if the funding is always sufficient), 
-and the speakers are still mainly doctoral students and postdoctoral students. 
-It aims to introduce the research directions and specific problems to each other 
-and provide a stage for young doctoral students in the initial stage of scientific research.
+April 13-17，2020 at CNU，Beijing，China (postponed)
 
 Organisers:
 ------
@@ -24,6 +18,15 @@ Tang, Shun 唐舜 Capital Normal University
 
 Tong, Jilong 童纪龙 Capital Normal University
 
+Discription:
+------
+Séminaire Mathjeunes was founded by Chinese students in Paris in 2008. 
+The participants and speakers were mainly doctoral students and postdoctoral students, 
+whose research areas includ number theory, arithmetic geometry, algebraic geometry and related directions. 
+Since the 10th anniversary celebration, an academic forum will be held every year in China (if the funding is always sufficient), 
+and the speakers are still mainly doctoral students and postdoctoral students. 
+It aims to introduce the research directions and specific problems to each other 
+and provide a stage for young doctoral students in the initial stage of scientific research.
 
 Link:
 ------
