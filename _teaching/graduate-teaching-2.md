@@ -2,7 +2,7 @@
 title: "Graduate Courses"
 collection: teaching
 type: "Classroom Course"
-permalink: /teaching/undergraduate-teaching-1
+permalink: /teaching/graduate-teaching-2
 venue: "Capital Normal University, School of Mathematical Sciences"
 date: 2020-06-01
 location: "Beijing, China"
