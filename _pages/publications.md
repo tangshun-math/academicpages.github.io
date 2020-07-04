@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. An arithmetic Lefschetz-Riemann-Roch theorem, to appear in Proceedings of the London Mathematical Society. With an appendix by Xiaonan Ma, available on [https://doi.org/10.1112/plms.12349](https://doi.org/10.1112/plms.12349)
+* An arithmetic Lefschetz-Riemann-Roch theorem, to appear in Proceedings of the London Mathematical Society. With an appendix by Xiaonan Ma, available on [https://doi.org/10.1112/plms.12349](https://doi.org/10.1112/plms.12349)
 
 * Localization theorem for higher arithmetic K-theory, Mathematische Zeitschrift 290(2018), 307-346. 
 
