@@ -37,6 +37,10 @@ Work experience
 
 * 2011.09-2012.08: Postdoctor
   * Max Planck Institute for Mathematics
+
+Honors and Awards
+======
+* The second prize of the 5th (2019) Mathematical micro Course Teaching Design Competition for Universities in Beijing
   
 Service
 ======
