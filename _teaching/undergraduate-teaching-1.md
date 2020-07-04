@@ -1,12 +1,14 @@
 ---
 title: "Undergraduate Courses"
 collection: teaching
-type: "class"
+type: "Normal Course"
 permalink: /teaching/undergraduate-teaching-1
 venue: "Capital Normal University, School of Mathematical Sciences"
 date: 2020-07-01
 location: "Beijing, China"
 ---
+
+This item includes a list of undergraduate courses I teached in recent five years.
 
 Analytic Geometry
 ======
