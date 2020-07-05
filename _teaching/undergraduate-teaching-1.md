@@ -8,7 +8,7 @@ date: 2020-07-01
 location: "Beijing, China"
 ---
 
-This item includes a list of undergraduate courses I teached in recent five years.
+This item includes a list of undergraduate courses I teached in recent years.
 
 Analytic Geometry
 ------
