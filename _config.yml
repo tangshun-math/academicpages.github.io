@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tang Shun 唐舜"
+title                    : "Tang Shun（唐舜）"
 title_separator          : "-"
 name                     : &name "Tang Shun"
 description              : &description "Mathematician"
